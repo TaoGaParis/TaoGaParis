@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Kung Fu 
 - 💞️ I’m looking to collaborate on Kung Fu
 - 📫 How to reach me [facebook group](https://www.facebook.com/groups/TaoGa)
+- Page created by @bafraikin
 
 <!---
 TaoGaParis/TaoGaParis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
